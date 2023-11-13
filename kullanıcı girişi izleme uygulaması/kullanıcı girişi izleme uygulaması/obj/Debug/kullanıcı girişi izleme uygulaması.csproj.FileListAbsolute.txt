@@ -1,0 +1,10 @@
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\kullanıcı girişi izleme uygulaması\kullanıcı girişi izleme uygulaması\bin\Debug\kullanıcı girişi izleme uygulaması.exe.config
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\kullanıcı girişi izleme uygulaması\kullanıcı girişi izleme uygulaması\bin\Debug\kullanıcı girişi izleme uygulaması.exe
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\kullanıcı girişi izleme uygulaması\kullanıcı girişi izleme uygulaması\bin\Debug\kullanıcı girişi izleme uygulaması.pdb
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\kullanıcı girişi izleme uygulaması\kullanıcı girişi izleme uygulaması\obj\Debug\kullanıcı girişi izleme uygulaması.csproj.AssemblyReference.cache
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\kullanıcı girişi izleme uygulaması\kullanıcı girişi izleme uygulaması\obj\Debug\kullanıcı_girişi_izleme_uygulaması.Form1.resources
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\kullanıcı girişi izleme uygulaması\kullanıcı girişi izleme uygulaması\obj\Debug\kullanıcı_girişi_izleme_uygulaması.Properties.Resources.resources
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\kullanıcı girişi izleme uygulaması\kullanıcı girişi izleme uygulaması\obj\Debug\kullanıcı girişi izleme uygulaması.csproj.GenerateResource.cache
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\kullanıcı girişi izleme uygulaması\kullanıcı girişi izleme uygulaması\obj\Debug\kullanıcı girişi izleme uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\kullanıcı girişi izleme uygulaması\kullanıcı girişi izleme uygulaması\obj\Debug\kullanıcı girişi izleme uygulaması.exe
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\kullanıcı girişi izleme uygulaması\kullanıcı girişi izleme uygulaması\obj\Debug\kullanıcı girişi izleme uygulaması.pdb
